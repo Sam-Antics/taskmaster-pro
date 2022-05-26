@@ -9,6 +9,11 @@ Using client's existing code, expand their task-management applicaiton using jQu
 ## Requirements
 The client has requested the following features:
 * Ability to edit task descriptions and dates
+* Update layout for new statuses
+* Add drag/drop capabilities
+* Add due date handling capability
+* Customize/improve
+
 ## Deployed Project
 https://sam-antics.github.io/taskmaster-pro/
 
